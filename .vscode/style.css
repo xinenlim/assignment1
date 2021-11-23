@@ -1,3 +1,26 @@
-h1{
-    color: pink;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+a {
+    color:pink;
+    font-family: "Montserrat";
+    font-size: 30px;
 }
+
+header{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 30px 10%;
+}
+
+.navlink{
+    list-style: none;
+}
+.navlink li {
+    display: inline-block;
+    justify-content: space-between;
+    
+}
+
+
+
