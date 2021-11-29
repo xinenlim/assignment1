@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rokkitt&display=swap');
+
+h1{
+    font-family: "Montserrat" ;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+
+p{ 
+    font-family: "Rokkitt";
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-start;
+    background-color: pink;
+    
+}
+img{ 
+    background-color: pink;
+}
