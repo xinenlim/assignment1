@@ -9,13 +9,11 @@ h1{
 }
 
 p{ 
-    font-family: "Rokkitt";
+    font-family: "Monterrat";
     font-size: 20px;
     display: flex;
     justify-content: flex-start;
-    background-color: pink;
-    
 }
-img{ 
+body{
     background-color: pink;
 }

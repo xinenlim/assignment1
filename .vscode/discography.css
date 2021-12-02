@@ -7,3 +7,14 @@ h1{
     justify-content: center;
 }
 
+p{
+    font-family: "Montserrat";
+}
+
+li {
+    font-family:"Montserrat"
+}
+
+.loco{
+    background-color: aqua;
+}

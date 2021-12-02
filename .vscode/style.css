@@ -1,38 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding:0;
 
-a {
-    color:rgb(209, 84, 105);
+}
+
+
+ul {
+    list-style: none;
     font-family: "Montserrat";
     font-size: 30px;
-    text-decoration: none;
-    padding: 30px;
-}
-
-a{
-    display: flex;
-    justify-content: space-between; 
-    align-items: center;
-    padding: 30px ;
-}
-
-.navlink{
-    list-style: none;
-}
-.navlink li {
-    display: inline-block;
-    justify-content: space-between;
-    
 }
 
 body{
-    background-image: url(https://lv2-cdn.azureedge.net/itzy/7b278d81515d43f89cd2e0e0e481620f-%EB%9F%AC%EB%B9%84%EB%8D%94%EB%B9%84_l.jpg);
-    background-size: cover;
+  background-size: cover;
 }
-section{
-    filter: brightness(50%);
+.brgimg{
+  background: rgba(0,0,0,0.3);
+  
 }
 h2{ 
-    color:whitesmoke;
+    color:white;
     text-decoration: underline;
     font-family: "Montserrat";
     font-size:30px;
@@ -44,4 +33,38 @@ p{
 h1{
     text-decoration: none;
     font-size: 50px;
+    font-family: "Montserrat";
+    color: #ffffff;
 }
+
+.navlink li{
+  display: inline-block;
+  padding: 0 40px;
+  
+}
+li, a{
+  text-decoration: none;
+  color:rgb(241, 53, 84);
+  margin : 20px;
+}
+
+.about{
+  display: flex;
+  flex-wrap:wrap;
+  align-items: flex-end;
+  
+}
+
+
+
+/* Add some content at the bottom of the video/page */
+.content {
+  position:fixed;
+  bottom: 0;
+  background: rgba(230, 219, 219, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 50px;
+
+}
+
