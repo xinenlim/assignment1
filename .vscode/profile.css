@@ -11,9 +11,12 @@ h1{
 p{ 
     font-family: "Monterrat";
     font-size: 20px;
-    display: flex;
-    justify-content: flex-start;
 }
 body{
     background-color: pink;
+}
+
+.yeji > div{
+    display: flex;
+    flex-direction: row;
 }
