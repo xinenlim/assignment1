@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Rokkitt&display=swap');
+
 
 h1{
     font-family: "Montserrat";
@@ -17,4 +17,7 @@ li {
 
 .loco{
     background-color: aqua;
+}
+section {
+    display: inline-block;
 }
