@@ -14,9 +14,9 @@ p{
 }
 body{
     background-color: pink;
+
 }
 
-.yeji > div{
-    display: flex;
-    flex-direction: row;
+.sns li{
+    display: inline-block;
 }
