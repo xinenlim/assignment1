@@ -17,8 +17,8 @@ on the navigation bar , there are 3 pages profiles , discography, and gallery
 Main page :
 A group photo of itzy as a background picture, about us in the bottom right corner and the navigation 
 
-Profiles: it displays the members' information, name ,birthday and postion in the group 
+Profiles: it displays the members' information, name ,birthday and postion in the group. By doing this, fans can know each members' birthday and celebrate it with them. 
 
 Discography : The discography displays the albums and tracks that has been released by the group 
 
-Gallery: shows some images of the members 
+Gallery: slideshow to display the images of the members and also a group photo  
